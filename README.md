@@ -1,6 +1,6 @@
 # 42 C Piscine
 
-This repository contains my solutions to the C Piscine at 42. Each folder corresponds to a specific day (C00 to C09), tackling fundamental concepts in the C programming language.
+This repository contains my preperation for the C Pool at 42. Each folder corresponds to a specific day (C00 to C013), tackling fundamental concepts in the C programming language.
 
 ## 📁 Directory Structure
 
@@ -19,19 +19,13 @@ This repository contains my solutions to the C Piscine at 42. Each folder corres
 
 | Day | Folder | Status |
 |-----|--------|--------|
-| C00 | `C00/` | ✅ Done |
-| C01 | `C01/` | ✅ Done |
-| C02 | `C02/` | ✅ Done |
-| C03 | `C03/` | ✅ Done |
-| C04 | `C04/` | ✅ Done |
-| C05 | `C05/` | ✅ Done |
-| C06 | `C06/` | ✅ Done |
-| C07 | `C07/` | ✅ Done |
-| C08 | `C08/` | ✅ Done |
-| C09 | `C09/` | ✅ Done |
-
-## 🛠 Compilation
-
-All projects are written in C and can be compiled using `gcc`:
-```bash
-gcc -Wall -Wextra -Werror filename.c -o output
+| C00 | `C00/` | ✅ 100% |
+| C01 | `C01/` | ✅ 100% |
+| C02 | `C02/` | ✅ 100% |
+| C03 | `C03/` | ✅ 100% |
+| C04 | `C04/` | ✅ 100% |
+| C05 | `C05/` | ✅ 100% |
+| C06 | `C06/` | ✅ 100% |
+| C07 | `C07/` | ✅ 100% |
+| C08 | `C08/` | ✅ 100% |
+| C09 | `C09/` | ✅ 100% |
