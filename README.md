@@ -1,6 +1,6 @@
 # 42 C Piscine
 
-This repository contains my preperation for the C Pool at 42. Each folder corresponds to a specific day (C00 to C013), tackling fundamental concepts in the C programming language.
+This repository contains my preperations for the C Pool at 42. Each folder corresponds to a specific day (C00 to C013), tackling fundamental concepts in the C programming language.
 
 ## 📁 Directory Structure
 
@@ -29,3 +29,7 @@ This repository contains my preperation for the C Pool at 42. Each folder corres
 | C07 | `C07/` | ✅ 100% |
 | C08 | `C08/` | ✅ 100% |
 | C09 | `C09/` | ✅ 100% |
+| C10 | `C10/` | ❌  0%  |
+| C11 | `C11/` | ❌  0%  |
+| C12 | `C12/` | ❌  0%  |
+| C13 | `C13/` | ❌  0%  |
