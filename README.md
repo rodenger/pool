@@ -1,1 +1,1 @@
-pool prep
+preparing for the pool
